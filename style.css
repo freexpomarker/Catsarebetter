@@ -1,0 +1,33 @@
+body {
+  background: #ffeead;
+}
+p {
+  color: black;
+  font-family: "Courier New", monospace;
+}
+h1 {
+  font-weight: bold;
+  font-family: Arial;
+  
+}
+h2 {
+  font-weight: bold;
+  font-family: Arial;
+}
+.left {
+ float:left;
+  border-radius: 7px;
+}
+
+.right {
+  float:right;
+  border-radius: 7px;
+}
+.img-caption {
+  float:right;
+  
+}
+.captionstyle {
+  font-weight: bold;
+  color:#818080;
+}
